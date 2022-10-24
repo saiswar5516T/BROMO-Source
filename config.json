@@ -1,0 +1,9 @@
+{
+    "dbd": {
+        "port": 80,
+        "domain": "http://localhost",
+        "redirectUri": "/discord/callback",
+        "license": "f9b47a23-e8c8-46e4-9968-d21a9789fc21",
+        "ownerIDs": ["Dashboard Admin Discord User IDs"]
+    }
+}
